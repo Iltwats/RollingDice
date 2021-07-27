@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RollingDice</string>
+    <string name="diceSize">Enter your Dice Size</string>
+</resources>
